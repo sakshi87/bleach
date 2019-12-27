@@ -1,5 +1,6 @@
 # Note: If you update this, make sure to update tox.ini, too.
 ch: amd64
+    arm64
       pydist: xenial
 language: python
 cache:
